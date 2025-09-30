@@ -19,7 +19,8 @@ Built using the **MERN stack** and deployed with **AWS cloud services**.
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/robotics-telemetry-dashboard.git
+git clone https://github.com/Gitesh-360/telemetry-simulation.git
+git checkout master
 cd robotics-telemetry-dashboard
 ```
 
